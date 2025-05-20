@@ -1,2 +1,2 @@
 nginx
-openjdk-17
+openjdk
